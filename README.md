@@ -27,37 +27,37 @@ A responsive front-end web application for bike and ride sharing that helps user
 
 ##  Home Page
 
-![Home](home.png)
+![Home](home.jpeg)
 
 ---
 
 ##  Available Vehicles
 
-![Vehicles](vehicles.png)
+![Vehicles](vehicles.jpeg)
 
 ---
 
 ##  Interactive Map
 
-![Map](map.png)
+![Map](map.jpeg)
 
 ---
 
 ##  Active Ride
 
-![Trip](trip.png)
+![Trip](trip.jpeg)
 
 ---
 
 ##  Station Selection
 
-![Stations](stations.png)
+![Stations](stations.jpeg)
 
 ---
 
 ##  Ride Statistics
 
-![Stats](stats.png)
+![Stats](stats.jpeg)
 
 ---
 
